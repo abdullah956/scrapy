@@ -16,7 +16,7 @@ class BookscraperPipeline:
         # print('+++++++++++++++++++++++++++++++++++++++++++++++')
         # print(item)
         # print('+++++++++++++++++++++++++++++++++++++++++++++++')
-        import pdb; pdb.set_trace()
+        #import pdb; pdb.set_trace()
         ## Strip all whitespaces from strings
         field_names = adapter.field_names()
         for field_name in field_names:
