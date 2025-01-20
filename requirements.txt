@@ -1,2 +1,3 @@
 Scrapy
 ipython
+psycopg2-binary
